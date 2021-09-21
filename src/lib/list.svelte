@@ -3,5 +3,7 @@
   import Items from '$lib/list-items.svelte';
 </script>
 
-<Form />
-<Items />
+<div class="todo-list">
+  <Items />
+  <Form />
+</div>
