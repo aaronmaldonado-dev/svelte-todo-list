@@ -44,8 +44,8 @@
     background-color: #e2e2e2;
   }
   .list-form__btn:active {
-    background-color: #d5e0d5;
-    border-color: #a1c1a1;
-    color: #398c39;
+    background-color: #A9E4D7;
+    border-color: #63B4B8;
+    color: #38A3A5;
   }
 </style>

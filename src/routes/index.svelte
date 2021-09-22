@@ -18,7 +18,7 @@
   <style>
     body {
       font-family: 'Roboto', sans-serif;
-      background-color: #f86457;
+      background-color: #4B3869;
       margin: 1rem;
     }
   </style>
