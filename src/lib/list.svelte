@@ -4,6 +4,16 @@
 </script>
 
 <div class="todo-list">
-  <Items />
   <Form />
+  <Items />
 </div>
+
+<style>
+  .todo-list {
+    background: #f4f7fc;
+    border-radius: 3px;
+    max-width: 520px;
+    padding: 1.5rem;
+    margin: 0 auto;
+  }
+</style>
